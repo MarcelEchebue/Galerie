@@ -40,5 +40,5 @@ personal-intro-webpage
 ![Code](./screenshot/white.png)
 
 ### 2️⃣ Whith BlackMode
-![Code](./images/black.png)
+![Code](./screenshot/black.png)
 
